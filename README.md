@@ -21,8 +21,8 @@ A simple QR Code Component made with CSS and HTML
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Salamah-Jimoh/qr-card.git)
+- Live Site URL: (https://css-qr-card-component.netlify.app)
 
 ## My process
 
@@ -39,7 +39,7 @@ A simple QR Code Component made with CSS and HTML
 
 First time importing font from Google fonts!🎉
 
-To see how you can add code snippets, see below:
+
 
 
 ```css
@@ -57,15 +57,15 @@ To see how you can add code snippets, see below:
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3docs.com) - This website provided an step-by-step guidelines in using Google font.
+- [W3docs](https://www.w3docs.com) - This website provided an step-by-step guidelines in using Google font.
 
 
 
 ## Author
 
 - Website - [Salamah](https://salamah.netlify.com)
-- Frontend Mentor - [@Salamah-Jimoh](https://www.frontendmentor.io/profile/Salamah-Jimoh)
-- Twitter - [@](https://www.twitter.com/salamah_jimoh)
+- Frontend Mentor - [@Salamah](https://www.frontendmentor.io/profile/Salamah-Jimoh)
+- Twitter - [@Salamah](https://www.twitter.com/salamah_jimoh)
 
 
 
